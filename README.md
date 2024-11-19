@@ -37,7 +37,7 @@ Home Assistant integration to record camera streams to AWS S3.
         },
         {
             "name": "cam2",
-            "url": "rtsp://user:password@ip1:port"
+            "url": "rtsp://user:password@ip2:port"
         }
     ]
 4. Integration will be ready within a few seconds
