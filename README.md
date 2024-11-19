@@ -1,7 +1,7 @@
 
 
 # Stream Recorder to AWS S3 for Home Assistant
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
+[![License](https://img.shields.io/badge/icense-Apache%202.0-blue?style=flat-square)](LICENSE)
 
 Home Assistant integration to record camera streams to AWS S3.
 
