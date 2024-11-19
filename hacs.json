@@ -1,4 +1,5 @@
 {
     "name": "Stream Recorder to S3",
-    "render_readme": true
+    "render_readme": true,
+    "filename": "stream_recorder_to_s3.zip"
 }
