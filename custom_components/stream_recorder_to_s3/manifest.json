@@ -1,0 +1,13 @@
+{
+    "domain": "stream_recorder",
+    "name": "Camera Stream to S3",
+    "codeowners": ["@alimdi"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://www.home-assistant.io/integrations/stream_recorder",
+    "homekit": {},
+    "iot_class": "cloud_polling",
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": []
+  }
